@@ -2,4 +2,4 @@
 
 Here is the Schematic
 
-![Schematic](.Img//Screenshot%202024-08-04%20215130.png)
+![Schematic](./Img//Screenshot%202024-08-04%20215130.png)
